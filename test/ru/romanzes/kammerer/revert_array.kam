@@ -1,0 +1,14 @@
+main {
+	counter = input[]
+	checkStartReached
+}
+
+checkStartReached {
+	if counter > 0 then printNextElement
+}
+
+printNextElement {
+	counter = counter - 1
+	output = input[counter]
+	checkStartReached
+}
