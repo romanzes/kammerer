@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cauldron/cauldron.iml" filepath="$PROJECT_DIR$/cauldron/cauldron.iml" />
       <module fileurl="file://$PROJECT_DIR$/kammerer.iml" filepath="$PROJECT_DIR$/kammerer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/potion/potion.iml" filepath="$PROJECT_DIR$/potion/potion.iml" />
     </modules>
   </component>
 </project>
